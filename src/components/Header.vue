@@ -27,7 +27,7 @@
                 <ul class="d-none d-md-flex justify-content-evenly my-line-height">
                     <li class="d-inline-block">HOME</li>
                     <li class="d-inline-block">CHI SIAMO</li>
-                    <li class="d-inline-block active">SERVIZI</li>
+                    <li class="d-inline-block">SERVIZI</li>
                     <li class="d-inline-block">RECENSIONI</li>
                     <li class="d-inline-block">BLOG</li>
                     <li class="d-inline-block">FAQ</li>
